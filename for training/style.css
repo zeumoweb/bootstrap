@@ -1,0 +1,36 @@
+.completenav { border: 1px dotted blue;
+padding: 30px 20px 30px 20px;
+margin: 0px 40px 40px 40px;}
+
+.mainblog { width: 90%;
+        height:850px ;
+        border: 1px solid red;
+        padding: 30px;
+        padding-bottom: 120px;
+        margin: 60px;}
+
+.col {border: 1px yellow dashed;
+}
+.firstblog { border: 1px solid blue;
+width: 80%;
+height: 300px;
+margin: 100px;}
+.secondblog { border: 1px solid blue;
+width: 80%;
+height: 300px;
+margin: -100px 100px 100px 100px;
+}
+.subblog { border: 1px solid green;
+width: 90%;
+height: 100px;
+margin: 10px 60px;
+padding: 20px;
+}
+.footer { border: 1px solid rgb(3, 32, 3);
+width: 95%;
+height: 60px;
+margin: 50px 30px;
+padding: 20px;
+}
+#h1, #h2, #h3 { display: inline;
+margin-left: 25%;}
